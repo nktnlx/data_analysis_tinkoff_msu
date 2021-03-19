@@ -1,0 +1,18 @@
+The notebook contains python code to solve home-tasks from the [Data Analysis Course](https://github.com/nktnlx/data_analysis_tinkoff_msu) for Moscow State University students by Tinkoff Education 2021 I've enrolled in March 2021.   
+
+
+
+Python, numpy, pandas, seaborn, matplotlib and datetime libraries and modules were used to solve tasks. Types of visualizations used: line plot, scatter plot, barplot, combo (twin) plots, box plot and scatter plot with regression (regplot).  
+
+ 
+
+
+
+Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
+
+
+
+--------------------------------------------
+Fill free to contact me via nktn.lx@gmal.com  
+Follow me on twitter: @nktn_lx  
+And here on github: github.com/nktnlx  
