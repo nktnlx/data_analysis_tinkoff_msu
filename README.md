@@ -15,9 +15,9 @@ This repository is for Open [Data Analysis Course](https://fintech.tinkoff.ru/st
 4. A/B tests (part 2)  
 5. A/B tests (part 3)  
 6. Data Interpretation  
-7. Models  
+7. Mobile Analytics
 8. Logistic regression  
-9. Mobile Analytics  
+9. Models    
 10. Random forest    
 
 
